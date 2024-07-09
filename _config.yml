@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor \n Department of Statistical Sciences"
-  location         : "700 University ave., office #9086, Toronto, ON, Canada"
+  bio              : "Assistant Professor at the Department of Statistical Sciences"
+  location         : "700 University ave., unit 9086, Toronto"
   employer         : "University of Toronto"
   uri              : # URL
   email            : "elena.tuzhilina@utoronto.ca" 
